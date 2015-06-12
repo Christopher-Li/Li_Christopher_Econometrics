@@ -20,7 +20,7 @@ The "venv" virtual environment does not support any directories in the working d
 
 To run the code, run these commands in the home directory:
 
->> source venv/bin/activate
->> pip install -r requirements.txt
->> python
->> >>execfile('pipeline.py')
+source venv/bin/activate
+pip install -r requirements.txt
+python
+>> execfile('pipeline.py')
